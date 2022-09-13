@@ -1,0 +1,1 @@
+[02-Sep-2022 09:29:34 UTC] PHP Fatal error:  Cannot redeclare Home::index() in /home/exzpblvz/public_html/sahardirectory/application/controllers/Home.php on line 18
